@@ -187,7 +187,7 @@
         <mxCell id="y8qW5J2SRh09N-lfW-1K-61" edge="1" parent="1" source="y8qW5J2SRh09N-lfW-1K-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="y8qW5J2SRh09N-lfW-1K-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rzs_bV0EpeWSifPzQ0CT-1" connectable="0" parent="y8qW5J2SRh09N-lfW-1K-61" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;2.254-4.376V&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Rzs_bV0EpeWSifPzQ0CT-1" connectable="0" parent="y8qW5J2SRh09N-lfW-1K-61" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2.254-4.376V&lt;/span&gt;&lt;div&gt;0-0.3262A&lt;/div&gt;&lt;div&gt;功率MAX:1.427W&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.081" y="1" as="geometry">
             <mxPoint x="5" y="1" as="offset" />
           </mxGeometry>
